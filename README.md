@@ -7,4 +7,4 @@
 <a href="https://chat.whatsapp.com/KLCdEr5kYSDCoKpwggTaPc"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
-<a href="https://github.com/Loddy-02/github-readme-activity-graph"><img alt="ERROR" src="https://activity-graph.herokuapp.com/graph?username=Loddy-02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Loddy-02"><img alt="ERROR" src="https://activity-graph.herokuapp.com/graph?username=Loddy-02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
